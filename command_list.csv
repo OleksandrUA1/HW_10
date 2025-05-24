@@ -1,0 +1,48 @@
+    1  git config --global user.name "Oleksandr Blyzniuk"
+    2  git config --global user.email oleksandrblyzniuk01@gmail.com
+    3  git clone https://github.com/OleksandrUA1/HW_10.git
+    4  cd HW_10/
+    5  touch text_ignore.txt
+    6  git status
+    7  git add
+    8  git add .
+    9  git status
+   10  commit
+   11  git commit
+   12  cd HW_10/
+   13  git status
+   14  git commit -m
+   15  git commit -m "Оновлено .gitignore"
+   16  touch main_test.txt
+   17  git add .
+   18  git commit -m " .gitignore"
+   19  cd HW_10/
+   20  cd HW_10/
+   21  git checkout developer
+   22  git checkout develop
+   23  git checkout --develop
+   24  git checkout -develop
+   25  git checkout -b develop
+   26  git add .
+   27  git commit -m " .git ignore"
+   28  git commit -m " .gitignore"
+   29  git commit -m " .git ignore"
+   30  git commit -m " .gitignore"
+   31  touch develop_test.txt
+   32  git add .
+   33  git commit -m " .git ignore"
+   34  ccccddf
+   35  cd develop_test.txt
+   36  nano develop
+   37  git status
+   38  git add .
+   39  git commit -m " .git ignore"
+   40  git checkout -b main
+   41  git checkout main
+   42  git merge develop
+   43  git log
+   44  cd HW_10/
+   45  command_list.csv
+   46  git bash
+   47  command_list.csv
+   48  history > command_list.csv
